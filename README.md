@@ -1,5 +1,5 @@
 ### Hi there 👋, it's Dani here!
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![https://dribbble.com/danifitrianto](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 <br />
 ![](https://komarev.com/ghpvc/?username=danifitriantoo)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifitriantoo&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
