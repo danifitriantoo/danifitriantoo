@@ -1,6 +1,6 @@
 ### Hi there 👋, it's Dani here!
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danifitriantoo)](https://github.com/danifitriantoo/github-readme-stats)
+![](https://komarev.com/ghpvc/?danifitrianto=your-github-username)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifitriantoo&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
 
 <!--
