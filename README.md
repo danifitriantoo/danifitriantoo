@@ -1,7 +1,6 @@
 ### Hi there 👋, it's Dani here!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danifitriantoo&show_icons=true&theme=dark)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danifitriantoo)](https://github.com/danifitriantoo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifitriantoo&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
 
 <!--
