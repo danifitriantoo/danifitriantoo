@@ -1,6 +1,7 @@
 ### Hi there 👋, it's Dani here!
 
 ![](https://komarev.com/ghpvc/?username=danifitriantoo)<br />
+![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danifitriantoo&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifitriantoo&hide=javascript,html,css&layout=compact&theme=dark)](https://github.com/danifitriantoo/github-readme-stats)
 
 <!--
